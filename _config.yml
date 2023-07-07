@@ -1,0 +1,7 @@
+title: muBOsic data story
+description: >- # this means to ignore newlines until "baseurl:"
+  muBosic Knowledge Graph data stories
+baseurl: ""
+url: "https://anonymous-iswc23.github.io/muBOsic-datastory/"
+
+theme: minima
